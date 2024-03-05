@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @emalabro
+- 👀 I’m interested in automation for eveyday life
+- 🌱 I’m currently diving into Python programming language
+- 💞️ I’m looking to collaborate on some chilling app
+- 📫 How to reach me: emalabro@gmail.com
